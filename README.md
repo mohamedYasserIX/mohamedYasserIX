@@ -1,53 +1,32 @@
-Mohamed Yasser — AI Engineer
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohamed+Yasser;AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;LLMs+%7C+NLP+%7C+Transformers;Always+learning+new+things)](https://git.io/typing-svg)
 
-   
+<!-- Animated GIF -->
+<img align="right" alt="AI GIF" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="300"/>
 
+## 🚀 About Me  
+I'm **Mohamed Yasser**, an **AI Engineer** specialized in **Machine Learning, Deep Learning, LLMs, and NLP**.  
+I build and deploy AI systems using **PyTorch, TensorFlow, LangGraph, and Docker**.
 
+---
 
-Hi there! I'm Mohamed Yasser, an AI Engineer specializing in Machine Learning, Deep Learning, Large Language Models (LLMs), and Natural Language Processing (NLP). I build and deploy AI systems using frameworks like PyTorch and TensorFlow, and leverage tools like LangGraph, ONNX, and Docker to create scalable, production-ready models.
+## 🛠️ Skills & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-⚡ Quick Overview
+---
 
-Role: AI Engineer (Machine & Deep Learning)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=<YOUR_USERNAME>&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=radical)
 
-Focus Areas: Transformers, LLMs, NLP
+---
 
-Languages: Python, SQL
-
-Tech Stack: PyTorch, TensorFlow, Transformers, NumPy, Pandas, Matplotlib, SciPy, ONNX, LangGraph, Docker
-
-🧰 Technical Skills
-
-Deep Learning: CNNs, RNNs, Transformers, mixed precision training, distributed systems.
-
-NLP & LLMs: Transformer fine-tuning, LoRA/PEFT, text generation pipelines.
-
-Data Engineering: Text and image preprocessing, Pandas/NumPy data manipulation.
-
-Deployment: Model conversion (ONNX/TorchScript), Docker, CI/CD, API hosting.
-
-Evaluation: BLEU, ROUGE, F1, Accuracy, cross-validation.
-
-🚀 Featured Projects
-
-Real-time Translation System (Seq2Seq + Transformer)
-
-Tech: PyTorch, HuggingFace, Tokenizers
-
-Metric: BLEU score xx.x
-
-Sign Language Classification Platform (MS-KAN Inspired)
-
-Tech: Mediapipe, PyTorch, TFLite
-
-Note: Keypoint-based, optimized for edge devices.
-
-Controlled Text Generation
-
-Tech: LLM fine-tuning, LoRA, LangGraph
-
-PDF Archiver Agent + Sign Language Translator
-
-Description: AI Agent to automatically process, tag, and archive PDFs while translating sign language videos to text.
-
-Tech: LangGraph, FastAPI, Mediapipe, PyTorch/TensorFlow, OCR (Tesseract/PyMuPDF)
+## 🌊 Animated Footer
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer)
