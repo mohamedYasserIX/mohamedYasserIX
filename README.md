@@ -22,9 +22,9 @@ I build and deploy AI systems using **PyTorch, TensorFlow, LangGraph, and Docker
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=<YOUR_USERNAME>&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<mohamedYasserIX>&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=<mohamedYasserIX>&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<mohamedYasserIX>&layout=compact&theme=radical)
 
 ---
 
